@@ -24,3 +24,36 @@ Top View:
 
 Bottom View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png)
+
+# 32 Pin Green Connector Breakout PCB
+![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
+
+# BOM (Bill of Materials)
+STM32G474CEU6:
+
+1 x ESP32-C3:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/ESP32_C3.png)
+
+Mini560 Pro:
+
+SN65HVD230 IC:
+
+G6K-2Y-Y1 3v RELAY:
+
+MMTB3904 aka 1AM: 
+
+SD Card Module:
+
+1808 Fuse + 1808 Fuse Holder:
+
+TVS:
+
+1 x SS34 Input Diode: 
+
+2 x 1N4148 Relay Diode:
+
+Resistors (All "1206" package):
+2 x 120Ω 1206
+3 x 0Ω 1206
+3 x 10kΩ 1206
+2 x 1kΩ 1206
