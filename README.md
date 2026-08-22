@@ -30,7 +30,7 @@ Bottom View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png)
 
 # 32 Pin Green Connector Breakout PCB
-[Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
+![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
 
 # BOM (Bill of Materials)
 WeActStudio STM32G474CEU6 Long Board:
