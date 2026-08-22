@@ -89,10 +89,10 @@ Resistors (All "1206" package):
 The Android app APK file is available to download in the [latest](https://github.com/IAmOrion/CAN-BUS-MITM/tree/main/latest) folder.
 
 # STM32 Firmware
-[STM32 Firmware here:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/STM32Firmware.bin)
+[Download STM32 Firmware](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/STM32Firmware.bin)
 
 # ESP32-C3 Firmware
-[ESP32-C3 Firmware available here:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/ESP32Firmware.bin)
+[Download ESP32-C3 Firmware](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/ESP32Firmware.bin)
 
 *When you have an internet connection on your phone, The WebUI (STA mode, not AP) and BLE Android App check the latest folder, compare version again the relevant .txt file and can update to the latest version if there is one.*
 
