@@ -30,7 +30,7 @@ Bottom View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png)
 
 # 32 Pin Green Connector Breakout PCB
-
+Top View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
 
 # BOM (Bill of Materials)
@@ -68,9 +68,13 @@ WeActStudio STM32G474CEU6 Long Board:
 ![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/1N4148.png)
 
 Resistors (All "1206" package):
+
 2 x 120Ω 1206
+
 3 x 0Ω 1206
+
 3 x 10kΩ 1206*
+
 2 x 1kΩ 1206
 
 * some (rare) Mini 560 Pro modules needed the 10k ENABLE resistor, most already have this onboard - so the 10kΩ EN* resistor as marked on the PCB may not be needed.
