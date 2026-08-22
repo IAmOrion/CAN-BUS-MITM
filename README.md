@@ -20,7 +20,7 @@ I designed the board so that the 'average joe' could hopefully make their own.  
 
 # STM32_ESP32 PCB
 Top View:
-https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Top.png
+![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Top.png)
 
 Bottom View:
-https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png
+![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png)
