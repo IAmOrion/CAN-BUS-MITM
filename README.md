@@ -30,6 +30,7 @@ Bottom View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/STM32_ESP32_PCB_Bottom.png)
 
 # 32 Pin Green Connector Breakout PCB
+
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
 
 # BOM (Bill of Materials)
@@ -78,11 +79,14 @@ Resistors (All "1206" package):
 
 [STL Files](https://github.com/IAmOrion/CAN-BUS-MITM/tree/main/3D%20Print%20STL%20Files)
 
-[32 Pin Green Connector Breakout Base:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/32%20PIN%20Plug%20Base.png)
+32 Pin Green Connector Breakout Base:
+![32 Pin Green Connector Breakout Base:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/32%20PIN%20Plug%20Base.png)
 
-[STM32_ESP32_PCB CASE BOTTOM:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20BOTTOM.png)
+STM32_ESP32_PCB CASE BOTTOM:
+![STM32_ESP32_PCB CASE BOTTOM:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20BOTTOM.png)
 
-[STM32_ESP32_PCB CASE_LID:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20LID.png)
+STM32_ESP32_PCB CASE_LID:
+![STM32_ESP32_PCB CASE_LID:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20LID.png)
 
 # Android App (APK File) *(Currently No iOS App)* 
 
