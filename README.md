@@ -11,7 +11,9 @@ Whilst this DIY was born from my specific use case, the CAN BUS MITM itself coul
 # HARDWARE
 The Gerbers for my PCBs are in the [PCB Gerbers](https://github.com/IAmOrion/CAN-BUS-MITM/tree/main/PCB%20Gerbers) folder.
 
-The PCB uses 2 microcontroller development boards (MCU boards).
+The PCB uses 2 microcontroller development boards (MCU boards) to make it easier for others to assemble their own.  I personally use JLCPCB (not affiliated) but PCBWay also offer PCB services.
+JLCPCB is about £6-£8 for 5 PCBS (5 is min order qty) including cheapest global shipping rate (18+ days)
+
 # STM32 
 This is the can bus filter itself.  It can also record can bus sessions if needed but by design does not record or initiate the SD Card as default.  Keeping it's primary purpose to simply filter can data.
 
