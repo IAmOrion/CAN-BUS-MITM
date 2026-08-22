@@ -72,3 +72,28 @@ Resistors (All "1206" package):
 
 * some (rare) Mini 560 Pro modules needed the 10k ENABLE resistor, most already have this onboard - so the 10kΩ EN* resistor as marked on the PCB may not be needed.
 
+# 3D Printed Case / Base Plate
+
+[STL Files](https://github.com/IAmOrion/CAN-BUS-MITM/tree/main/3D%20Print%20STL%20Files)
+
+![32 Pin Green Connector Breakout Base:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/32%20PIN%20Plug%20Base.png)
+
+![STM32_ESP32_PCB CASE BOTTOM:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20BOTTOM.png)
+
+![STM32_ESP32_PCB CASE_LID:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/3D%20Print%20STL%20Files/STM32%20CANBUS%20FILTER%20CASE%20LID.png)
+
+# Android App (APK File) *(Currently No iOS App)* 
+
+The Android app APK file is available to download in the [latest](https://github.com/IAmOrion/CAN-BUS-MITM/tree/main/latest) folder.
+
+# STM32 Firmware
+[STM32 Firmware here:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/STM32Firmware.bin)
+
+# ESP32-C3 Firmware
+[ESP32-C3 Firmware available here:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/latest/ESP32Firmware.bin)
+
+*When you have an internet connection on your phone, The WebUI (STA mode, not AP) and BLE Android App check the latest folder, compare version again the relevant .txt file and can update to the latest version if there is one.*
+
+# Source code
+
+ESP32, STM32, Android App source code coming soon.
