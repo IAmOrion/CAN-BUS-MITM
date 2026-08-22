@@ -29,31 +29,44 @@ Bottom View:
 ![Top View:](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/PCB%20Gerbers/Audi_32Pin_Green_Breakout_Top.png)
 
 # BOM (Bill of Materials)
-STM32G474CEU6:
+WeActStudio STM32G474CEU6 Long Board:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/STM32.png)
 
 1 x ESP32-C3:
 ![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/ESP32_C3.png)
 
-Mini560 Pro:
+1 x Mini560 Pro:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/Mini560Pro.png)
 
-SN65HVD230 IC:
+2 x SN65HVD230 IC:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/SN65HVD230%20.png)
 
-G6K-2Y-Y1 3v RELAY:
+2 x G6K-2Y-Y1 3v RELAY:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/Relay.png)
 
-MMTB3904 aka 1AM: 
+2 x MMTB3904 aka 1AM:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/mmtb3904.png)
 
-SD Card Module:
+1 x SD Card Module (Optional):
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/sdcard.png)
 
-1808 Fuse + 1808 Fuse Holder:
+1 x 1808 Fuse + 1 x 1808 Fuse Holder:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/Fuse_Fuse_Holder.png)
 
-TVS:
+1 x TVS:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/TVS.png)
 
 1 x SS34 Input Diode: 
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/SS34.png)
 
 2 x 1N4148 Relay Diode:
+![](https://github.com/IAmOrion/CAN-BUS-MITM/blob/main/BOM%20Photos/1N4148.png)
 
 Resistors (All "1206" package):
 2 x 120Ω 1206
 3 x 0Ω 1206
-3 x 10kΩ 1206
+3 x 10kΩ 1206*
 2 x 1kΩ 1206
+
+* some (rare) Mini 560 Pro modules needed the 10k ENABLE resistor, most already have this onboard - so the 10kΩ EN* resistor as marked on the PCB may not be needed.
+
